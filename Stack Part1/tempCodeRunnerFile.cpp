@@ -1,0 +1,1 @@
+s.push(value[i]);
